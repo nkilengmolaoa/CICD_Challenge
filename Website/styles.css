@@ -1,10 +1,35 @@
+.introBR {
+    height: 250px;
+    background-color:rgb(246, 208, 214)
+}
+
 img {
-    width: 150px;
-    height: 150px;
+    padding-top: 15px;
+    padding-left: 10px;
+    width: 220px;
+    height: 220px;
     border-radius: 50%;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size:large;
+    font-size:x-large;
+    color: #FF69B4;
+
+}
+
+
+.NkiPicture {
+    float: left; 
+    margin-right: 16px;
+}
+
+.NkiIntro {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    padding-top: 15px;
+}
+
+.treats {
+    font-family: Arial, Helvetica, sans-serif;
 }
